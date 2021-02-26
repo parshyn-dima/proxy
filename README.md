@@ -1,1 +1,1 @@
-# proxy
+ВМ на YC с nginx
